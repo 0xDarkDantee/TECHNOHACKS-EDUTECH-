@@ -1,2 +1,2 @@
-# TECHNOHACKS-EDUTECH-
+# TECHNOHACKS-EDUTECH
 Digital Forensics Internship
